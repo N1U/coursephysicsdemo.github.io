@@ -39,3 +39,8 @@ function windowResized() {
 function mousePressed() {
     setup();
 }
+
+function keyPressed() {
+    if (keyCode === 82)
+        setup();
+}
