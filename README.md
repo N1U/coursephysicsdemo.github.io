@@ -8,7 +8,6 @@
 
 * [作用力与反作用力](https://n1u.github.io/coursephysicsdemo.github.io/01_forceBall/index.html)
 
-* [惯性演示](https://n1u.github.io/coursephysicsdemo.github.io/
-02_deceleration/index.html)
+* [惯性演示](https://n1u.github.io/coursephysicsdemo.github.io/02_deceleration/index.html)
 
 * [节气与时间的关系](https://n1u.github.io/coursephysicsdemo.github.io/04_fourSeasons/index.html)
