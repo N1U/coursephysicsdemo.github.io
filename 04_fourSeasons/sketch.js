@@ -42,9 +42,11 @@ function draw() {
     auxiliary.run();
     main();
 
-    fill(0, 10);
-    noStroke();
-    rect(width/2, height/2, -height / 2, -height / 2);
+    if (mouseIsPressed) {
+        fill(0, 10);
+        noStroke();
+        rect(width / 2, height / 2, -height / 2, -height / 2);
+    }
 }
 
 function main() {
@@ -57,12 +59,6 @@ function main() {
     gDay.run(angleDay, color(15, 82, 255, 200));
     gSolar.run(angleSolar, color(15, 82, 255, 255));
     gMonth.run(angleMonth, color(15, 82, 255, 180));
-}
-
-function mousePressed() {
-    fill(0, 10);
-    noStroke();
-    rect(width/2, height/2, -height / 2, -height / 2);
 }
 
 function windowResized() {
