@@ -10,4 +10,6 @@
 
 * [惯性演示](https://n1u.github.io/coursephysicsdemo.github.io/02_deceleration/index.html)
 
-* [节气与时间的关系](https://n1u.github.io/coursephysicsdemo.github.io/04_01_fourSeasons/index.html)
+* [节气与时间的关系_01](https://n1u.github.io/coursephysicsdemo.github.io/04_01_fourSeasons/index.html)
+
+* [节气与时间的关系_02](https://n1u.github.io/coursephysicsdemo.github.io/06_GearsFourSeasons/index.html)
